@@ -1,8 +1,6 @@
 
 -- AutoNa Addon
--- Automates casting remedy spells on party members and yourself when status ailments are detected.
--- Features: Casting queue (ordered by ailment priority), packet parsing for party buffs,
--- self status polling, dynamic HUD display
+-- Automates casting na spells / erase / healing waltz on party members and yourself when status ailments are detected.
 --
 -- Commands:
 --   //autona on                -- Enable the addon.
