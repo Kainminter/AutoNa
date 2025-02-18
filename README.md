@@ -14,6 +14,8 @@ The AutoNA addon is a tool that automates casting na spells / erase / healing wa
 
 Detection for when its safe to cast not always accurate. If spell interupted or cannot be cast, it will try again.
 
+Under certain conditions, it may begin to have issues tracking which party members have status ailments correctly. For example party member 3 might have paralyze, but the addon will become certain its party member 5 for some reason. Potentially an issue with multiple instances of the addon running in multiple windows.
+
 **INSTRUCTIONS:**
 
 In the windower console;
